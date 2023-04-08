@@ -1,0 +1,37 @@
+h1 {
+    color: white;
+    font-family: Copperplate;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3  {
+    font-family: Copperplate;
+    text-align: center;
+    color: white;
+}
+
+.carbonara  {
+    background-color:rgb(241, 121, 141);
+}
+
+.meatballs  {
+    background-color: brown;
+}
+
+.omelette   {
+    background-color: rgb(246, 189, 47);
+}
+
+div {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.text   {
+    font-family: Verdana, Helvetica, sans-serif
+}
